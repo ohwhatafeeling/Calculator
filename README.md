@@ -1,7 +1,7 @@
-#Calculator
+# Calculator
 
 
-##Description
+## Description
 
 This is a simple GUI calculator that was made following a tutorial from [Bro Code](https://www.youtube.com/c/BroCodez).
 
